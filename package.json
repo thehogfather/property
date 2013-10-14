@@ -1,0 +1,12 @@
+{
+    "name": "property",
+    "version": "0.0.1",
+    "description": "Utility function for defining JS object properties as chainable functions",
+    "keywords": ["chaining", "property"],
+    "author": {"name": "Patrick Oladimeji"},
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/thehogfather/property"
+    },
+    "main": "property.js"
+}
