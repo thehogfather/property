@@ -13,6 +13,7 @@
             if (!arguments.length) {
                 return v;
             }
+            v = _;
             return this;
         };
         return p;
